@@ -905,5 +905,12 @@
         "cameras": "Cameras",
         "uptime": "Uptime",
         "version": "Version"
+    },
+    "adguardsync": {
+        "syncing": "Syncing",
+        "idle": "Idle",
+        "replicas": "Replicas",
+        "replicasSynced": "Replicas Synced",
+        "lastSync": "Last Sync"
     }
 }
